@@ -16,6 +16,6 @@ print("To make a pizza, you need to take a lump of " + noun + " and make a thin,
 print("Then you cover it with " + adjective + " sauce, " + adjective + " cheese, and fresh chopped " +  pluralnoun)
 print("Next you have to bake it in a very hot " + noun)
 print("When it is done, cut it into " + shapes)
-print("Some kids like " + food  + " pizza the best, but my favorite is the " + food + " pizza.")
+print("Some kids like " + food  + " pizza the best, but my favorite is the " + food1 + " pizza.")
 print("If I could, I would eat pizza " + number + " times a day!")
 
